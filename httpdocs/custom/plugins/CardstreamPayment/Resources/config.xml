@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/shopware/shopware/5.2/engine/Shopware/Components/Plugin/schema/config.xsd">
+    <elements>
+        <element required="true" type="text">
+            <name>merchantID</name>
+            <label lang="en">Merchant ID</label>
+            <value>100001</value>
+        </element>
+        <element required="true" type="text">
+            <name>sigKey</name>
+            <label lang="en">Signature Key</label>
+            <value>Circle4Take40Idea</value>
+        </element>
+    </elements>
+</config>
