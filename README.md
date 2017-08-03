@@ -1,4 +1,5 @@
-# Cardstream Payment Shopware Plugin
+# Cardstream Payment Gateway for Shopware
+Take payments with the Cardstream Payment Gateway (hosted) plugin to process payments on Shopware.
 
 ## Compatibility
 Tested on Shopware v5.2.22
